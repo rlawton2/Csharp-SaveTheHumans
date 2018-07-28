@@ -1,5 +1,5 @@
 # C#- Save The Humans
-![alt text](https://raw.githubusercontent.com/rlawton2/Csharp-SaveTheHumans/master/Screenshot.png)
+![alt text](https://raw.githubusercontent.com/rlawton2/Csharp-SaveTheHumans/master/ScreenShot.png)
 
 ## Description
 This project was developed while following the book "Head First C#." Additions were made the application. 
